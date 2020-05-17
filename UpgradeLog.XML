@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Table">
+</Property><Property Name="Файл решения" Value="C:\Users\Андрей\Desktop\Мои таблицы\TablesNew\Table\Table.sln">
+</Property><Property Name="Date" Value="29 мая 2015 г.">
+</Property><Property Name="Time" Value="8:58">
+</Property></Properties><Event ErrorLevel="0" Project="Table" Source="Table\Table.vcproj" Description="Converting project file 'C:\Users\Андрей\Desktop\Мои таблицы\TablesNew\Table\Table\Table.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Table" Source="Table\Table.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Table" Source="Table\Table.vcproj" Description="Done converting to new project file 'C:\Users\Андрей\Desktop\Мои таблицы\TablesNew\Table\Table\Table.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Table" Source="Table\Table.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Table.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Table.sln" Description="Converted">
+</Event></UpgradeLog>

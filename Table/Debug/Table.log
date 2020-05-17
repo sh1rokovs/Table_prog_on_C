@@ -1,0 +1,15 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  Table.cpp
+C:\Users\Sid\Downloads\Таблицы\Table\Table\Tables.h(131,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\Downloads\Таблицы\Table\Table\Tables.h(144,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\Downloads\Таблицы\Table\Table\HashTable.h(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Sid\Downloads\Таблицы\Table\Table\ScanTable.h(33): warning C4715: TScanTable::GetMas: значение возвращается не при всех путях выполнения
+C:\Users\Sid\Downloads\Таблицы\Table\Table\BalTreeTable.h(198): warning C4715: TBalTreeTable::DelBalTree: значение возвращается не при всех путях выполнения
+C:\Users\Sid\Downloads\Таблицы\Table\Table\ArrayTable.h(46): warning C4715: TArrayTable::GetCurr: значение возвращается не при всех путях выполнения
+C:\Users\Sid\Downloads\Таблицы\Table\Table\HashTable.h(78): warning C4715: TArrayHashTable::Find: значение возвращается не при всех путях выполнения
+C:\Users\Sid\Downloads\Таблицы\Table\Table\BalTreeTable.h(144): warning C4715: TBalTreeTable::Rightbalanseance: значение возвращается не при всех путях выполнения
+C:\Users\Sid\Downloads\Таблицы\Table\Table\BalTreeTable.h(95): warning C4715: TBalTreeTable::Leftbalanseance: значение возвращается не при всех путях выполнения
+stdafx.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  Table.vcxproj -> C:\Users\Sid\Downloads\Таблицы\Table\Debug\Table.exe
